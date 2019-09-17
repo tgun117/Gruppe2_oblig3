@@ -8,6 +8,7 @@ public class MyClass {
 
     private static void feature1() {
         String namn = "bob";
+        System.out.println(namn);
     }
 
     private static void feature2() {

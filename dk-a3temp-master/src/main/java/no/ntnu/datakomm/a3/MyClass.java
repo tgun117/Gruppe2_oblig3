@@ -7,7 +7,7 @@ package no.ntnu.datakomm.a3;
 public class MyClass {
 
     private static void feature1() {
-        // TODO - print "Feature #1"
+        // TODO - print "Feature dsdasdsdasdsadasdasdadadadsadsadsadadadadada#1"
     }
 
     private static void feature2() {
